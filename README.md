@@ -19,10 +19,8 @@ The back end is based on Spring Boot. H2 Database Engine was used during the dev
 
 ## Lessons
 
-Since there was too much software that I don't know if I'll keep daily usage, I decided to carry this course into a VM with antiX installed. I had a problem on Java types (which is not my main language). Had a problem with pgAdmin too, which I could not use because I canceled the configuration script execution and could not fix it. So I used psql commands (I like the terminal anyway).
+Since there was too much software that I don't know if I'll keep daily usage, I decided to carry this course into a VM with antiX installed. I had a problem on Java types (which is not my main language) when a query to databank returned a Double and my variable was defined as a Long. Had a problem with pgAdmin too, which I could not use because I canceled the configuration script execution and could not fix it. I thought it had crashed. So I used psql commands (I like the terminal anyway).
 
 For me was a great way to introduce myself into Spring framework. I had been using ReactJS for some months, although I've never used Axios and never made great beautiful graphics.
 
-I think the deployment process and the back end architecture was my greatest learned lesson. The separation between respository, service and controller layers is more clear now for me.
-
-This was the first time I used enviroment variables on production server. Is not much a hardship, but I new on deployment business.
+I think the deployment process and the back end architecture was my greatest learned lesson. The separation between respository, service and controller layers is more clear for me now. This was the first time I used enviroment variables on production server. Is not much a hardship, but I am new on deployment business.
