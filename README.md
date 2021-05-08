@@ -7,7 +7,7 @@ This is a web site developed during a event of [DevSuperior](https://devsuperior
 
 ## The event
 
-This was an third edition of online event carried by DevSuperior that went during may third and 9th of 2021. The objective was to teach some of the technologies that tech companies search for. The propose was to develop and deploy a website that shows fake information about sellers and sales, with graphics and tables constructed with information of the back end server.
+This was an third edition of online event carried by DevSuperior that went during may third and 9th of 2021. The objective was to teach some of the technologies that tech companies are looking for the most. The propose was to develop and deploy a website that shows fake information about sellers and sales, with graphics and tables constructed with information of the back end server.
 
 Was supplied some [step by step material](https://github.com/devsuperior/sds3) along with videos and a Discord community for questions.
 
